@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    println("you good?")
+    println("that's cool")
 
     // Try adding program arguments via Run/Debug configuration.
     // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
